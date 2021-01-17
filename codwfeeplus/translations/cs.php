@@ -10,7 +10,7 @@ $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_042eb1587500b095241b72ba725f4cea'
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_22d2c7f90dc862df71ac7aff95183fb2'] = 'Cash on delivery';
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_1a8f0157da5a48a34e065531b501674e'] = 'COD with Fee Plus';
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_d90d73f4fb41e6e94f5e3bcab9377537'] = 'COD Product was not found.';
-$_MODULE['<{codwfeeplus}prestashop>codwfeeplus_2fde241920d8a354163689a19f9b0085'] = 'Pay with Cash on Delivery';
+$_MODULE['<{codwfeeplus}prestashop>codwfeeplus_2fde241920d8a354163689a19f9b0085'] = 'Platba kartou nebo hotově při doručení';
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_2bf46c6abe54cd3659b86fa1a65ea576'] = 'Empty manufacturer';
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_a69804b4bd8802574122acc9518420b1'] = 'Empty brand';
 $_MODULE['<{codwfeeplus}prestashop>codwfeeplus_3cf7a1c6ba56006a7ccda476bcd4f4e4'] = 'Empty supplier';
@@ -233,8 +233,8 @@ $_MODULE['<{codwfeeplus}prestashop>confirmation_8861c5d3fa54b330d1f60ba50fcc4aab
 $_MODULE['<{codwfeeplus}prestashop>confirmation_e6dc7945b557a1cd949bea92dd58963e'] = 'Your order will be sent very soon.';
 $_MODULE['<{codwfeeplus}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = 'For any questions or for further information, please contact our';
 $_MODULE['<{codwfeeplus}prestashop>confirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'customer support';
-$_MODULE['<{codwfeeplus}prestashop>payment_infos_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Pay with cash on delivery (COD)';
-$_MODULE['<{codwfeeplus}prestashop>payment_infos_536dc7424180872c8c2488ae0286fb53'] = 'You pay for the merchandise upon delivery';
+$_MODULE['<{codwfeeplus}prestashop>payment_infos_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Platba hotově nebo platební kartou při doručení';
+$_MODULE['<{codwfeeplus}prestashop>payment_infos_536dc7424180872c8c2488ae0286fb53'] = 'Zaplatíte kurýrovi';
 $_MODULE['<{codwfeeplus}prestashop>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Pay with cash on delivery (COD)';
 $_MODULE['<{codwfeeplus}prestashop>payment_536dc7424180872c8c2488ae0286fb53'] = 'You pay for the merchandise upon delivery';
 $_MODULE['<{codwfeeplus}prestashop>confirmation_17_88526efe38fd18179a127024aba8c1d7'] = 'Your order on %s is complete.';
